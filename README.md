@@ -5,7 +5,7 @@ This project focuses on predicting student academic performance using Machine Le
 
 The project uses Python data science libraries to clean data, visualize patterns, and build predictive models.
 
-Technologies Used
+# Technologies Used
 
 Python
 
@@ -21,7 +21,7 @@ Seaborn – Advanced statistical visualization
 
 Scikit-learn – Machine Learning algorithms
 
-Dataset Description
+# Dataset Description
 
 The dataset contains information about students and their academic performance.
 
@@ -45,12 +45,13 @@ Final Performance / Grade
 
 These features help the model learn patterns and predict student outcomes.
 
-Project Workflow
-1. Data Collection
+# Project Workflow
+
+# 1. Data Collection
 
 The dataset is loaded into the notebook using Pandas DataFrame.
 
-2. Data Exploration
+# 2. Data Exploration
 
 Basic exploration steps include:
 
@@ -62,7 +63,7 @@ Identifying missing values
 
 Understanding data distribution
 
-3. Data Preprocessing
+# 3. Data Preprocessing
 
 Handling missing values
 
@@ -72,7 +73,7 @@ Feature selection
 
 Data normalization (if required)
 
-4. Data Visualization
+# 4. Data Visualization
 
 Graphs and charts are created using Matplotlib and Seaborn to understand:
 
@@ -82,7 +83,7 @@ Feature correlations
 
 Performance patterns
 
-5. Model Building
+# 5. Model Building
 
 Machine Learning algorithms are used to train a predictive model.
 
@@ -96,7 +97,7 @@ Random Forest
 
 Logistic Regression
 
-6. Model Evaluation
+# 6. Model Evaluation
 
 Model performance is evaluated using metrics such as:
 
