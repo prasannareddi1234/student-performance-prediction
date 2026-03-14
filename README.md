@@ -1,6 +1,6 @@
 # student-performance-prediction
 
-Project Overview
+# Project Overview
 
 This project focuses on predicting student academic performance using Machine Learning. The model analyzes different student-related factors such as study time, attendance, and other academic attributes to estimate student performance.
 
