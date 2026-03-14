@@ -1,7 +1,6 @@
 #                                                                                   Project Overview
 
-Project Overview
-
+#                                                                                   Student Performance Prediction
 This project focuses on predicting student academic performance using Machine Learning. The model analyzes different student-related factors such as study time, attendance, and other academic attributes to estimate student performance.
 
 The project uses Python data science libraries to clean data, visualize patterns, and build predictive models.
